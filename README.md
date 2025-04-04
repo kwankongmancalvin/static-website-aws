@@ -7,7 +7,6 @@
 - 🗿 [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) - SSL certificate
 - 🚏 [Route 53](https://aws.amazon.com/route53/) - DNS/Domain setup
 
-## Project Structure
 
 ## How to
 
