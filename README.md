@@ -25,6 +25,8 @@ export TF_VAR_godaddy_api_secret=<your godaddy api secret>
 - Terraform Variables file
 ```
 domain_name = "<your godaddy domain>"
+site_name = "<your site name>"
+aws_region = "<AWS region name>"
 ```
 
 
